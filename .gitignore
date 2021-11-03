@@ -1,3 +1,6 @@
 *.py
 *.Rhistory
 .DS_Store
+.ipynb_checkpoints/house-prices v2-checkpoint.ipynb
+house-prices-advanced-regression-techniques/.ipynb_checkpoints/data_description-checkpoint.txt
+Untitled.ipynb
